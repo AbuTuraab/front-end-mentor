@@ -1,0 +1,47 @@
+body{
+    font-size: 18px;
+    background-color: hsl(217, 54%, 11%);
+   padding: 0px;
+   font-family: sans-serif;
+}
+
+.Equilibrium{
+   color: hsl(0, 0%, 100%);
+}
+.Jules{
+    color: hsl(0, 0%, 100%);
+ }
+
+.image-equillibrium:hover{
+   color: hsl(178, 100%, 50%);
+}
+
+ .ETH{
+    color: hsl(178, 100%, 50%);
+ }
+ .days{
+    color: hsl(215, 51%, 70%);
+ }
+
+ .hr{
+    height: 2px;
+    border-width: 0;
+    background-color: hsl(215, 51%, 70%);
+ }
+ .bottom-container{
+    position: relative;
+ }
+ .julian-image{
+    width: 25;
+    float: left;
+    padding-right: 15px;
+ }
+ .special-image{
+    float: left;
+    padding-right: 10px;
+ }
+ .clock-3days{
+    padding-left: 500px;
+ position: relative;
+ bottom: 39px;
+}
